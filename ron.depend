@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1703181364 source:c:\users\ronald\desktop\ron\bank account.c
+	<stdio.h>
+	<stdlib.h>
+
+1703787378 source:c:\users\ronald\desktop\ron\untitled1.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

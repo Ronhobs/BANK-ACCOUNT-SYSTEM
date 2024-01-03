@@ -1,0 +1,14 @@
+COURSE OF ACTION:
+1. I have to create a menu in the main function and create different functions for the Menu.
+The functions in the Menu will be called using switch case statements 
+The four different functions are:
+a. newaccount()- This function is to create a new account.
+b. checkbalance()- This function is used to check balance in the account.
+c. transfermoney()- This function is used to transfer money to the account.
+d. login()- This function is used to login into the account.
+
+2. First, create an account of user by calling the newaccount() function 
+after the creation of the account, store all the data in a file using file handling
+functions(fopen,fread)
+3. The user is able to transfer the amount to others using the 
+transfermoney() function and the check his balance.
